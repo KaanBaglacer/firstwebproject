@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(255, 221, 153);
+}
+
+#title {
+  font-size: 50px;
+  color: #9ee8eb;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#image {
+  max-width: 25%;
+  height: auto;
+  margin: auto;
+  padding: 10px;
+}
+
+#img-caption {
+  padding: 20px;
+  margin: auto;
+  color: #001ae0;
+}
+
+#tribute-info {
+  text-align: center;
+  margin: auto;
+  color: #001ae0;
+}
+
+.header {
+  background-color: #422d00;
+  text-align: center;
+  padding: 1px;
+}
